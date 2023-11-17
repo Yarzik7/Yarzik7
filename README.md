@@ -7,9 +7,9 @@
   JavaScript and React. I am constantly seeking to enhance my skill set and apply my knowledge to
   real-world projects. I am passionate about programming and highly focused on achieving results.
 </p>
-<h2>My skills</h2>
+<h2>Skills</h2>
 
-**Frontend**:
+<h3>Frontend:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,10 +23,20 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Statistic
+<h2>Statistics</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yarzik7&theme=tokyonight&border_radius=10&locale=en&card_width=400" alt="GitHub Streak" /></a>
+<h3>Git hub:</h3>
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=yarzik7&theme=tokyonight&border_radius=10&card_width=400" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yarzik7&theme=tokyonight&border_radius=10&locale=en&card_width=400" alt="GitHub Streak" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yarzik7&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarzik7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=Yarzik7&style=flat-square&color=blue" alt=""/>
+
+<h3>Codewars:</h3>
+
+[![codewars](https://www.codewars.com/users/Yarzik7/badges/large)](https://www.codewars.com/users/Yarzik7)
+
+<h2>Contacts</h2>
