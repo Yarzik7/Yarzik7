@@ -3,9 +3,10 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 <p style="font-size: 18px">
-  I am a Junior Frontend developer with basic knowledge and experience in HTML5, CSS3, SASS,
-  JavaScript and React. I am constantly seeking to enhance my skill set and apply my knowledge to
-  real-world projects. I am passionate about programming and highly focused on achieving results.
+  I am a Frontend Developer with over 1 year of experience in web application
+development. I am dedicated to continually enhancing my skill set and applying my
+knowledge to real-world projects. I am passionate about programming and highly
+focused on achieving results.
 </p>
 <h2>Skills</h2>
 
