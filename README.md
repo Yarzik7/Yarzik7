@@ -47,6 +47,8 @@ focused on achieving results.
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=yarzik7&theme=tokyonight&border_radius=10&card_width=420" alt="GitHub Streak" /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yarzik7&theme=tokyonight&border_radius=10&locale=en&card_width=420" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarzik7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3>Codewars:</h3>
 
