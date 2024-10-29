@@ -3,7 +3,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 <p style="font-size: 18px">
-  I am a Frontend Developer with more than 2 years of web application development experience. Constantly I am working on improving my skills and knowledge. I am passionate about programming and always have been I focus on achieving results. My goal is to participate in real-world projects where I can apply my knowledge and continue my professional development.
+  I am a Frontend Developer with over 2 years of experience in web application development through non-commercial projects. I am constantly working on improving my skills and knowledge. I am passionate about programming and have always focused on achieving results. My goal is to participate in real-world projects where I can apply my knowledge and continue my professional development.
 </p>
 <h2>Skills</h2>
 
