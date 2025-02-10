@@ -16,6 +16,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 <!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 <!-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
 <!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
@@ -27,6 +28,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-gray?style=for-the-badge&logo=mongoose&logoColor=880000)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 <!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 
 <h3>Software:</h3>
@@ -37,14 +39,71 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<h2>Projects (Portfolio)</h2>
+
+<details>
+<summary><b>Team projects:</b></summary>
+
+<br/>
+
+[![GooseTrack](https://github-readme-stats.vercel.app/api/pin/?username=NazarMural&repo=goose-track-project&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![Bookshelf](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=project-DreamTeam&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![Mimino](https://github-readme-stats.vercel.app/api/pin/?username=urt2509&repo=mimino-group-project&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Backend:</b></summary>
+
+<br/>
+
+[![MeetStream (Backend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=meet-stream-server&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![Superhero database (Backend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=superhero-database-backend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![Todo list (Backend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=todo-list-backend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Web applications (Frontend):</b></summary>
+
+<br/>
+
+[![MeetStream (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=meet-stream&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![Todo list (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=todo-list-frontend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![User management table](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=user-management-table&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![Superhero database (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=superhero-database-frontend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![Barcode scanner](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=barcode-scanner-react&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![PHONEBOOK (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=phonebook-frontend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![ImageFinder](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=ImageFinder&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Websites / Landings:</b></summary>
+
+<br/>
+
+[![Ape NFT](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=ape-nft&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![CarpTravel](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=carp-travel&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![WebStudio](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=WebStudio&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+
+</details>
+
 <h2>Statistics</h2>
 
 <h3>GitHub:</h3>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=yarzik7&theme=tokyonight&border_radius=10&card_width=420" alt="GitHub Streak" /></a>
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yarzik7&theme=tokyonight&border_radius=10&locale=en&card_width=420" alt="GitHub Streak" /></a> -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarzik7&layout=compact&theme=tokyonight&border_radius=10&card_width=420" alt="GitHub Streak" /></a>
 
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yarzik7&theme=tokyonight&border_radius=10&locale=en&card_width=420" alt="GitHub Streak" /></a> -->
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarzik7&layout=compact&theme=tokyonight&border_radius=10&card_width=420" alt="GitHub Streak" /></a>
 
 <h3>Codewars:</h3>
 
