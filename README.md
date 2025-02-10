@@ -52,8 +52,6 @@
 
 </details>
 
-<br/>
-
 <details>
 <summary><b>Backend:</b></summary>
 
@@ -64,8 +62,6 @@
 [![Todo list (Backend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=todo-list-backend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
 
 </details>
-
-<br/>
 
 <details>
 <summary><b>Web applications (Frontend):</b></summary>
@@ -81,8 +77,6 @@
 [![ImageFinder](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=ImageFinder&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
 
 </details>
-
-<br/>
 
 <details>
 <summary><b>Websites / Landings:</b></summary>
