@@ -46,9 +46,9 @@
 
 <br/>
 
-[![GooseTrack](https://github-readme-stats.vercel.app/api/pin/?username=NazarMural&repo=goose-track-project&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![GooseTrack](https://github-readme-stats.vercel.app/api/pin/?username=NazarMural&repo=goose-track-project&theme=tokyonight)](https://github.com/NazarMural/goose-track-project)
 [![Bookshelf](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=project-DreamTeam&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![Mimino](https://github-readme-stats.vercel.app/api/pin/?username=urt2509&repo=mimino-group-project&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![Mimino](https://github-readme-stats.vercel.app/api/pin/?username=urt2509&repo=mimino-group-project&theme=tokyonight)](https://github.com/urt2509/mimino-group-project)
 
 </details>
 
@@ -57,9 +57,9 @@
 
 <br/>
 
-[![MeetStream (Backend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=meet-stream-server&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![Superhero database (Backend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=superhero-database-backend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![Todo list (Backend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=todo-list-backend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![MeetStream (Backend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=meet-stream-server&theme=tokyonight)](https://github.com/Yarzik7/meet-stream-server)
+[![Superhero database (Backend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=superhero-database-backend&theme=tokyonight)](https://github.com/Yarzik7/superhero-database-backend)
+[![Todo list (Backend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=todo-list-backend&theme=tokyonight)](https://github.com/Yarzik7/todo-list-backend)
 
 </details>
 
@@ -68,13 +68,13 @@
 
 <br/>
 
-[![MeetStream (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=meet-stream&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![Todo list (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=todo-list-frontend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![User management table](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=user-management-table&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![Superhero database (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=superhero-database-frontend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![Barcode scanner](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=barcode-scanner-react&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![PHONEBOOK (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=phonebook-frontend&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![ImageFinder](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=ImageFinder&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![MeetStream (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=meet-stream&theme=tokyonight)](https://github.com/Yarzik7/meet-stream)
+[![Todo list (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=todo-list-frontend&theme=tokyonight)](https://github.com/Yarzik7/todo-list-frontend)
+[![User management table](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=user-management-table&theme=tokyonight)](https://github.com/Yarzik7/user-management-table)
+[![Superhero database (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=superhero-database-frontend&theme=tokyonight)](https://github.com/Yarzik7/superhero-database-frontend)
+[![Barcode scanner](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=barcode-scanner-react&theme=tokyonight)](https://github.com/Yarzik7/barcode-scanner-react)
+[![PHONEBOOK (Frontend)](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=phonebook-frontend&theme=tokyonight)](https://github.com/Yarzik7/phonebook-frontend)
+[![ImageFinder](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=ImageFinder&theme=tokyonight)](https://github.com/Yarzik7/ImageFinder)
 
 </details>
 
@@ -83,9 +83,9 @@
 
 <br/>
 
-[![Ape NFT](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=ape-nft&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![CarpTravel](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=carp-travel&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
-[![WebStudio](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=WebStudio&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
+[![Ape NFT](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=ape-nft&theme=tokyonight)](https://github.com/Yarzik7/ape-nft)
+[![CarpTravel](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=carp-travel&theme=tokyonight)](https://github.com/Yarzik7/carp-travel)
+[![WebStudio](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=WebStudio&theme=tokyonight)](https://github.com/Yarzik7/WebStudio)
 
 </details>
 
