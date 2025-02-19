@@ -83,6 +83,7 @@
 
 <br/>
 
+[![TradeInvest](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=trade-invest-landing&theme=tokyonight)](https://github.com/Yarzik7/trade-invest-landing)
 [![Ape NFT](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=ape-nft&theme=tokyonight)](https://github.com/Yarzik7/ape-nft)
 [![CarpTravel](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=carp-travel&theme=tokyonight)](https://github.com/Yarzik7/carp-travel)
 [![WebStudio](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=WebStudio&theme=tokyonight)](https://github.com/Yarzik7/WebStudio)
