@@ -49,7 +49,7 @@
 [![GooseTrack](https://github-readme-stats.vercel.app/api/pin/?username=NazarMural&repo=goose-track-project&theme=tokyonight)](https://github.com/NazarMural/goose-track-project)
 [![Bookshelf](https://github-readme-stats.vercel.app/api/pin/?username=Yarzik7&repo=project-DreamTeam&theme=tokyonight)](https://github.com/Yarzik7/project-DreamTeam)
 [![Mimino](https://github-readme-stats.vercel.app/api/pin/?username=urt2509&repo=mimino-group-project&theme=tokyonight)](https://github.com/urt2509/mimino-group-project)
-[![Longleaf Valley](https://github-readme-stats.vercel.app/api/pin/?username=artem-yaremchuk&repo=evoplay&theme=tokyonight)]([https://github.com/urt2509/mimino-group-project](https://github.com/artem-yaremchuk/evoplay))
+[![Longleaf Valley](https://github-readme-stats.vercel.app/api/pin/?username=artem-yaremchuk&repo=evoplay&theme=tokyonight)](https://github.com/artem-yaremchuk/evoplay)
 </details>
 
 <details>
